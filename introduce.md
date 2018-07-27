@@ -14,9 +14,10 @@
 ### （官方一点的说法）特点、有点
 
 1. 语法简洁。
-2. 类库丰富。类库，其他大牛编写的功能，可以直接拿来使用。
+2. 类库丰富。  
+类库，其他大牛编写的功能，可以直接拿来使用。
 3. 跨平台。
-4. 可扩展性。把其他语言编写的库。
+4. 可扩展性。把其他语言编写的库作为扩展工具进行使用。
 5. 开源。（这一点可以看一下《黑客与画家》这本书里面说的（自行购买，强烈推荐），开源的软件具有更加丰富的生态，作者格雷厄姆对开源软件十分推崇）
 
 ## 历史
@@ -44,21 +45,29 @@ Python 2.X 已经是遗产，Python 3.X 是现在和未来的语言。
 3. 发行版解决另一个重要问题。包和包之间具有以来关系，比如使用A，需要B，自己从头安装很可能会遗漏，导致编写的程序（对于新手来说，很头疼）很难顺利运行。
 
 ### 下载地址
-1. Python 官方网址。https://www.python.org/  
+1. Python 官方网址。  
+https://www.python.org/  
 选择电脑操作系统对应的系统即可。**官方文档**也在这里。
-2. Anaconda 官方网址。https://www.anaconda.com/download/  
+2. Anaconda 官方网址。  
+https://www.anaconda.com/download/  
 同上。可能打开慢，我没有什么问题。如果实在不行，使用下面的镜像源网站下载。
-3. Anaconda 镜像源。https://mirror.tuna.tsinghua.edu.cn/help/anaconda/  
+3. Anaconda 镜像源。  
+https://mirror.tuna.tsinghua.edu.cn/help/anaconda/  
 应该是安全的。
 
 ### 其他软件、工具
-1. iPython。https://www.ipython.org/  
+1. iPython。  
+https://www.ipython.org/  
 交互式编译器。可以提示、补全代码，帮助新手集中精力进行编程。
-2. jupyter notebook。http://jupyter-notebook.readthedocs.io/en/latest/  
+2. jupyter notebook。  
+http://jupyter-notebook.readthedocs.io/en/latest/  
 在网页上进行编程。**强烈推荐**学习，可以进行远程编写程序，比如进行“机器学习”，自己电脑硬件不行，可以使用 AWS 的强大的云电脑进行处理，这时候使用这个软件可以将代码通过浏览器运行在云电脑上面。
-3. sublime text。https://www.sublimetext.com  
+3. sublime text。  
+https://www.sublimetext.com  
 文本编辑器。用于编写大型程序。多平台，轻量级，打开快速。
-4. PyCharm。https://www.jetbrains.com/pycharm/
+4. PyCharm。  
+https://www.jetbrains.com/pycharm/
 集成开发环境。胜任编写更加大型的软件。
-5. Pip。https://pip.pypa.io/en/stable/installing/
+5. Pip。  
+https://pip.pypa.io/en/stable/installing/
 可以自动解决包与包依赖关系的安装问题。但是使用发行版 Anaconda 就不用考虑，应该是再带的。
